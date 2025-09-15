@@ -1,0 +1,7 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Env files avec secrets
+**/.env
+**/.env.prod
