@@ -3,7 +3,8 @@
 *.iml
 
 # Docker volumes
-**/data/
+docker-pg/pg_data/
+docker-pg/pgadmin_data/
 
 # Env files avec secrets
 **/.env
